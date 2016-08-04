@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OuterWorld/OuterWorld.iml" filepath="$PROJECT_DIR$/OuterWorld/OuterWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PyPiBotter.iml" filepath="$PROJECT_DIR$/PyPiBotter.iml" />
+    </modules>
+  </component>
+</project>

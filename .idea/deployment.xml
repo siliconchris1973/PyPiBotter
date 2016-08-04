@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="fairytale" createEmptyFolders="true" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="fairytale">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/PyPiBotter" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/PyPiBotter/OuterWorld" local="$PROJECT_DIR$/OuterWorld" />
+            <mapping deploy="/PyPiBotter/static" local="$PROJECT_DIR$/static" />
+            <mapping deploy="/PyPiBotter/templates" local="$PROJECT_DIR$/templates" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
